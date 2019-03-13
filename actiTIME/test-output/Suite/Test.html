@@ -1,0 +1,205 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>4/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Dec 26 22:16:55 IST 2018</td>
+</tr>
+<tr><td>Total time:</td><td>47 seconds (47596 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.actitime.tests.buildTest.testBuild()'><b>testBuild</b><br>Test class: com.actitime.tests.buildTest<br/>
+<a href="#Output-680150616" onClick='toggleBox("Output-680150616", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-680150616" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-680150616">
+title is matching:actiTIME - Login<br/>
+valid usernameadmin<br/>
+valid passwordmanager<br/>
+title is matching:actiTIME - Enter Time-Track<br/>
+element is present:<br/>
+element is present:<br/>
+actual build(build 39769)<br/>
+Expected build(build 39769)<br/>
+build is matching(build 39769)<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.actitime.tests.buildTest@66a3ffec</td></tr>
+<tr>
+<td title='com.actitime.tests.invalidLoginTest.testInvalidlogin()'><b>testInvalidlogin</b><br>Test class: com.actitime.tests.invalidLoginTest<br/>
+<a href="#Output-1705665942" onClick='toggleBox("Output-1705665942", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1705665942" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1705665942">
+title is matching:actiTIME - Login<br/>
+invalid userdamger<br/>
+invalid passkdjslj<br/>
+element is present:<br/>
+actual Error MessageUsername or Password is invalid. Please try again.<br/>
+expectet error messageUsername or Password is invalid. Please try again.<br/>
+error msg is matching<br/>
+=====================<br/>
+invalid userksm<br/>
+invalid pass<br/>
+element is present:<br/>
+actual Error MessageUsername or Password is invalid. Please try again.<br/>
+expectet error messageUsername or Password is invalid. Please try again.<br/>
+error msg is matching<br/>
+=====================<br/>
+invalid user<br/>
+invalid passsjljfsl<br/>
+element is present:<br/>
+actual Error MessageUsername or Password is invalid. Please try again.<br/>
+expectet error messageUsername or Password is invalid. Please try again.<br/>
+error msg is matching<br/>
+=====================<br/>
+invalid user<br/>
+invalid pass<br/>
+element is present:<br/>
+actual Error MessageUsername or Password is invalid. Please try again.<br/>
+expectet error messageUsername or Password is invalid. Please try again.<br/>
+error msg is matching<br/>
+=====================<br/>
+invalid useridji<br/>
+invalid passjfsj<br/>
+element is present:<br/>
+actual Error MessageUsername or Password is invalid. Please try again.<br/>
+expectet error messageUsername or Password is invalid. Please try again.<br/>
+error msg is matching<br/>
+=====================<br/>
+invalid userUDFD<br/>
+invalid passUEO<br/>
+element is present:<br/>
+actual Error MessageUsername or Password is invalid. Please try again.<br/>
+expectet error messageUsername or Password is invalid. Please try again.<br/>
+error msg is matching<br/>
+=====================<br/>
+invalid userdam<br/>
+invalid passman38uu28<br/>
+element is present:<br/>
+actual Error MessageUsername or Password is invalid. Please try again.<br/>
+expectet error messageUsername or Password is invalid. Please try again.<br/>
+error msg is matching<br/>
+=====================<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>com.actitime.tests.invalidLoginTest@1e88b3c</td></tr>
+<tr>
+<td title='com.actitime.tests.validLoginLogoutTest.testValidLoginLogout()'><b>testValidLoginLogout</b><br>Test class: com.actitime.tests.validLoginLogoutTest<br/>
+<a href="#Output-1446001495" onClick='toggleBox("Output-1446001495", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1446001495" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1446001495">
+title is matching:actiTIME - Login<br/>
+valid usernameadmin<br/>
+valid passwordmanager<br/>
+title is matching:actiTIME - Enter Time-Track<br/>
+element is present:<br/>
+title is matching:actiTIME - Login<br/>
+title is matching:actiTIME - Login<br/>
+valid usernameadmin<br/>
+valid passwordmanager<br/>
+title is matching:actiTIME - Enter Time-Track<br/>
+element is present:<br/>
+title is matching:actiTIME - Login<br/>
+title is matching:actiTIME - Login<br/>
+valid usernameadmin<br/>
+valid passwordmanager<br/>
+title is matching:actiTIME - Enter Time-Track<br/>
+element is present:<br/>
+title is matching:actiTIME - Login<br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>com.actitime.tests.validLoginLogoutTest@3e6fa38a</td></tr>
+<tr>
+<td title='com.actitime.tests.versionTest.testVerifyVersion()'><b>testVerifyVersion</b><br>Test class: com.actitime.tests.versionTest<br/>
+<a href="#Output-1415545023" onClick='toggleBox("Output-1415545023", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1415545023" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1415545023">
+title is matching:actiTIME - Login<br/>
+element is present:<br/>
+Actual version:actiTIME 2017.4<br/>
+expected version:actiTIME 2017.4<br/>
+version is matching ....<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.actitime.tests.versionTest@77caeb3e</td></tr>
+</table><p>
+</body>
+</html>

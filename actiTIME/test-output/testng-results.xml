@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[title is matching:actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[valid usernameadmin]]>
+    </line>
+    <line>
+      <![CDATA[valid passwordmanager]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Enter Time-Track]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[valid usernameadmin]]>
+    </line>
+    <line>
+      <![CDATA[valid passwordmanager]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Enter Time-Track]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[valid usernameadmin]]>
+    </line>
+    <line>
+      <![CDATA[valid passwordmanager]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Enter Time-Track]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[invalid userdamger]]>
+    </line>
+    <line>
+      <![CDATA[invalid passkdjslj]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[error msg is matching]]>
+    </line>
+    <line>
+      <![CDATA[=====================]]>
+    </line>
+    <line>
+      <![CDATA[invalid userksm]]>
+    </line>
+    <line>
+      <![CDATA[invalid pass]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[error msg is matching]]>
+    </line>
+    <line>
+      <![CDATA[=====================]]>
+    </line>
+    <line>
+      <![CDATA[invalid user]]>
+    </line>
+    <line>
+      <![CDATA[invalid passsjljfsl]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[error msg is matching]]>
+    </line>
+    <line>
+      <![CDATA[=====================]]>
+    </line>
+    <line>
+      <![CDATA[invalid user]]>
+    </line>
+    <line>
+      <![CDATA[invalid pass]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[error msg is matching]]>
+    </line>
+    <line>
+      <![CDATA[=====================]]>
+    </line>
+    <line>
+      <![CDATA[invalid useridji]]>
+    </line>
+    <line>
+      <![CDATA[invalid passjfsj]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[error msg is matching]]>
+    </line>
+    <line>
+      <![CDATA[=====================]]>
+    </line>
+    <line>
+      <![CDATA[invalid userUDFD]]>
+    </line>
+    <line>
+      <![CDATA[invalid passUEO]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[error msg is matching]]>
+    </line>
+    <line>
+      <![CDATA[=====================]]>
+    </line>
+    <line>
+      <![CDATA[invalid userdam]]>
+    </line>
+    <line>
+      <![CDATA[invalid passman38uu28]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[error msg is matching]]>
+    </line>
+    <line>
+      <![CDATA[=====================]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[Actual version:actiTIME 2017.4]]>
+    </line>
+    <line>
+      <![CDATA[expected version:actiTIME 2017.4]]>
+    </line>
+    <line>
+      <![CDATA[version is matching ....]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[valid usernameadmin]]>
+    </line>
+    <line>
+      <![CDATA[valid passwordmanager]]>
+    </line>
+    <line>
+      <![CDATA[title is matching:actiTIME - Enter Time-Track]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[element is present:]]>
+    </line>
+    <line>
+      <![CDATA[actual build(build 39769)]]>
+    </line>
+    <line>
+      <![CDATA[Expected build(build 39769)]]>
+    </line>
+    <line>
+      <![CDATA[build is matching(build 39769)]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47596" started-at="2018-12-26T16:46:55Z" finished-at="2018-12-26T16:47:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47596" started-at="2018-12-26T16:46:55Z" finished-at="2018-12-26T16:47:43Z">
+      <class name="com.actitime.tests.buildTest">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.actitime.tests.buildTest@66a3ffec]" name="precondition" is-config="true" duration-ms="5062" started-at="2018-12-26T16:47:34Z" finished-at="2018-12-26T16:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="testBuild()[pri:4, instance:com.actitime.tests.buildTest@66a3ffec]" name="testBuild" duration-ms="3025" started-at="2018-12-26T16:47:39Z" finished-at="2018-12-26T16:47:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[title is matching:actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[valid usernameadmin]]>
+            </line>
+            <line>
+              <![CDATA[valid passwordmanager]]>
+            </line>
+            <line>
+              <![CDATA[title is matching:actiTIME - Enter Time-Track]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[actual build(build 39769)]]>
+            </line>
+            <line>
+              <![CDATA[Expected build(build 39769)]]>
+            </line>
+            <line>
+              <![CDATA[build is matching(build 39769)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testBuild -->
+        <test-method status="PASS" signature="postcondition(org.testng.ITestResult)[pri:0, instance:com.actitime.tests.buildTest@66a3ffec]" name="postcondition" is-config="true" duration-ms="859" started-at="2018-12-26T16:47:42Z" finished-at="2018-12-26T16:47:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testBuild status=SUCCESS method=buildTest.testBuild()[pri:4, instance:com.actitime.tests.buildTest@66a3ffec] output=title is matching:actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- com.actitime.tests.buildTest -->
+      <class name="com.actitime.tests.invalidLoginTest">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.actitime.tests.invalidLoginTest@1e88b3c]" name="precondition" is-config="true" duration-ms="5127" started-at="2018-12-26T16:47:11Z" finished-at="2018-12-26T16:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="testInvalidlogin()[pri:2, instance:com.actitime.tests.invalidLoginTest@1e88b3c]" name="testInvalidlogin" duration-ms="10485" started-at="2018-12-26T16:47:16Z" finished-at="2018-12-26T16:47:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[title is matching:actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[invalid userdamger]]>
+            </line>
+            <line>
+              <![CDATA[invalid passkdjslj]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[error msg is matching]]>
+            </line>
+            <line>
+              <![CDATA[=====================]]>
+            </line>
+            <line>
+              <![CDATA[invalid userksm]]>
+            </line>
+            <line>
+              <![CDATA[invalid pass]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[error msg is matching]]>
+            </line>
+            <line>
+              <![CDATA[=====================]]>
+            </line>
+            <line>
+              <![CDATA[invalid user]]>
+            </line>
+            <line>
+              <![CDATA[invalid passsjljfsl]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[error msg is matching]]>
+            </line>
+            <line>
+              <![CDATA[=====================]]>
+            </line>
+            <line>
+              <![CDATA[invalid user]]>
+            </line>
+            <line>
+              <![CDATA[invalid pass]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[error msg is matching]]>
+            </line>
+            <line>
+              <![CDATA[=====================]]>
+            </line>
+            <line>
+              <![CDATA[invalid useridji]]>
+            </line>
+            <line>
+              <![CDATA[invalid passjfsj]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[error msg is matching]]>
+            </line>
+            <line>
+              <![CDATA[=====================]]>
+            </line>
+            <line>
+              <![CDATA[invalid userUDFD]]>
+            </line>
+            <line>
+              <![CDATA[invalid passUEO]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[error msg is matching]]>
+            </line>
+            <line>
+              <![CDATA[=====================]]>
+            </line>
+            <line>
+              <![CDATA[invalid userdam]]>
+            </line>
+            <line>
+              <![CDATA[invalid passman38uu28]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[actual Error MessageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[expectet error messageUsername or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[error msg is matching]]>
+            </line>
+            <line>
+              <![CDATA[=====================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testInvalidlogin -->
+        <test-method status="PASS" signature="postcondition(org.testng.ITestResult)[pri:0, instance:com.actitime.tests.invalidLoginTest@1e88b3c]" name="postcondition" is-config="true" duration-ms="898" started-at="2018-12-26T16:47:27Z" finished-at="2018-12-26T16:47:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testInvalidlogin status=SUCCESS method=invalidLoginTest.testInvalidlogin()[pri:2, instance:com.actitime.tests.invalidLoginTest@1e88b3c] output=title is matching:actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- com.actitime.tests.invalidLoginTest -->
+      <class name="com.actitime.tests.versionTest">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.actitime.tests.versionTest@77caeb3e]" name="precondition" is-config="true" duration-ms="5101" started-at="2018-12-26T16:47:28Z" finished-at="2018-12-26T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="testVerifyVersion()[pri:3, instance:com.actitime.tests.versionTest@77caeb3e]" name="testVerifyVersion" duration-ms="209" started-at="2018-12-26T16:47:33Z" finished-at="2018-12-26T16:47:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[title is matching:actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[Actual version:actiTIME 2017.4]]>
+            </line>
+            <line>
+              <![CDATA[expected version:actiTIME 2017.4]]>
+            </line>
+            <line>
+              <![CDATA[version is matching ....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testVerifyVersion -->
+        <test-method status="PASS" signature="postcondition(org.testng.ITestResult)[pri:0, instance:com.actitime.tests.versionTest@77caeb3e]" name="postcondition" is-config="true" duration-ms="979" started-at="2018-12-26T16:47:33Z" finished-at="2018-12-26T16:47:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testVerifyVersion status=SUCCESS method=versionTest.testVerifyVersion()[pri:3, instance:com.actitime.tests.versionTest@77caeb3e] output=title is matching:actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- com.actitime.tests.versionTest -->
+      <class name="com.actitime.tests.validLoginLogoutTest">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.actitime.tests.validLoginLogoutTest@3e6fa38a]" name="precondition" is-config="true" duration-ms="6003" started-at="2018-12-26T16:46:55Z" finished-at="2018-12-26T16:47:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="testValidLoginLogout()[pri:0, instance:com.actitime.tests.validLoginLogoutTest@3e6fa38a]" name="testValidLoginLogout" duration-ms="8897" started-at="2018-12-26T16:47:01Z" finished-at="2018-12-26T16:47:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[title is matching:actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[valid usernameadmin]]>
+            </line>
+            <line>
+              <![CDATA[valid passwordmanager]]>
+            </line>
+            <line>
+              <![CDATA[title is matching:actiTIME - Enter Time-Track]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[title is matching:actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[title is matching:actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[valid usernameadmin]]>
+            </line>
+            <line>
+              <![CDATA[valid passwordmanager]]>
+            </line>
+            <line>
+              <![CDATA[title is matching:actiTIME - Enter Time-Track]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[title is matching:actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[title is matching:actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[valid usernameadmin]]>
+            </line>
+            <line>
+              <![CDATA[valid passwordmanager]]>
+            </line>
+            <line>
+              <![CDATA[title is matching:actiTIME - Enter Time-Track]]>
+            </line>
+            <line>
+              <![CDATA[element is present:]]>
+            </line>
+            <line>
+              <![CDATA[title is matching:actiTIME - Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testValidLoginLogout -->
+        <test-method status="PASS" signature="postcondition(org.testng.ITestResult)[pri:0, instance:com.actitime.tests.validLoginLogoutTest@3e6fa38a]" name="postcondition" is-config="true" duration-ms="910" started-at="2018-12-26T16:47:10Z" finished-at="2018-12-26T16:47:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testValidLoginLogout status=SUCCESS method=validLoginLogoutTest.testValidLoginLogout()[pri:0, instance:com.actitime.tests.validLoginLogoutTest@3e6fa38a] output=title is matching:actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- com.actitime.tests.validLoginLogoutTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
